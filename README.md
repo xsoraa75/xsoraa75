@@ -3,7 +3,7 @@
 🌱 I’m currently learning JavaScript and improving my skills in CSS animations.  
 💞️ I’m looking to collaborate on open-source projects or any cool frontend development work.  
 📫 How to reach me: You can reach me via email at xsoraa75@example.com.  
-😄 Pronouns: Her  
+😄 Pronouns: Him  
 ⚡ Fun fact: I’m a big fan of mystery novels and can solve a Rubik's cube in under 2 minutes!
 
 <!---
